@@ -1,5 +1,5 @@
 # Want to cheat at Cookie Clicker Online?
-How sad lol
+**How sad *(lol)***
 
 I'm only kidding, here's how!
 
