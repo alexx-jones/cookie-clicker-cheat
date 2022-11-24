@@ -3,7 +3,7 @@
 
 I'm only kidding, here's how!
 
-All you need is the script found in google-console.js
+All you need is the script found in `google-console.js` <br>
 Simply paste it into the console of your Google Chrome Web Browser (Find it by doing SHIFT + CTRL + I)
 
 
